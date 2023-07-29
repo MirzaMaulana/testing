@@ -18,5 +18,15 @@ Pada gambar di atas terdapat 3 <b>Issue</b> dengan status <b>Open</b> dan 1 <b>I
 Setelah kita memutuskan untuk memilih Task List mana yang akan dikerjakan. Silahkan fork repository ini.
 <img src="docs/fork.png">
 
-Jika Sudah kita fork selanjutnya clone repository fork tadi
+Jika Sudah kita fork selanjutnya clone repository fork tadi.
 <img src="docs/clone.png">
+
+Setelah itu kita tambahkan beberapa perubahan atau penambahan feature
+<img src="docs/feature.png">
+
+Jika Feature atau Perbaikan telah kita anggap selesai maka selanjutnya kita akan buat branch dengan nama feat/(feature yang anda buat).
+<img src="docs/create branch.png">
+
+Setelah sudah pastikan kamu di branch barunya jika belum bisa gunakan <b>git checkout (nama branch)</b>
+setelah itu push seperti biasanya.
+<img src="docs/push github.png">
