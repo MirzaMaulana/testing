@@ -1,12 +1,14 @@
 ## Testing Workflow
+
 Hanya sample file.
 
 ## Langkah-langkah
+
 Di sini, kita akan belajar cara kerja atau workflow tim.
 Di repository sample ini kita anggap sebuah project frontend.
 
 Sebelum memulai, terdapat 2 branch pada repository ini, yaitu <b>main</b> dan <b>staging</b>.
-Branch <b>main</b> digunakan untuk <b>production</b> sedangkan branch <b>staging</b> digunakan untuk <i>staging</i> yang akan dicek oleh QA. 
+Branch <b>main</b> digunakan untuk <b>production</b> sedangkan branch <b>staging</b> digunakan untuk <i>staging</i> yang akan dicek oleh QA.
 <img src="docs/branch.png" >
 
 Perlu diperhatikan, untuk melihat Task List atau Todo List, kalian bisa masuk di tab <b>Issue</b>.
@@ -16,3 +18,5 @@ Pada gambar di atas terdapat 3 <b>Issue</b> dengan status <b>Open</b> dan 1 <b>I
 Setelah kita memutuskan untuk memilih Task List mana yang akan dikerjakan. Silahkan fork repository ini.
 <img src="docs/fork.png">
 
+Jika Sudah kita fork selanjutnya clone repository fork tadi
+<img src="docs/clone.png">
