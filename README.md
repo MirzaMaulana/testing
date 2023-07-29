@@ -40,7 +40,7 @@ setelah itu push seperti biasanya.
 Jika berhasil push selanjutnya kita cek repository forknya tadi di repository kita.
 selanjutnya kita klik tombol compare & pull request.
 
-<img src="docs/compare.png>
+<img src="docs/compare.png">
 
 jika sudah maka masuk ke halaman dibawah ini lalu lakukan berikut
 pertama pastikan judul sesusai dengan issue atau apa yang kita kerjakan jika perlu tambahkan deskripsi juga.
